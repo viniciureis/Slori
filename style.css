@@ -31,4 +31,12 @@ p{
     margin-left: 0px;
     margin-right: 0px;
   }
+  p{
+    font-size: 14px;
+  }
+  .img{
+    width: 50%;
+    padding-left: 0px;
+    margin-top: -20px;
+  }
 }
