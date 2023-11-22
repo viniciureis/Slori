@@ -33,8 +33,8 @@ p{
   }
   p{
     font-size: 14px;
-    justify-content: center;
-    text-align: center;
+    justify-content: flex-start;
+    text-align: start;
   }
   .img{
     width: 50%;
@@ -45,7 +45,7 @@ p{
     font-size: 10px;
   }
   .flex{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex;
+  gap: 30px;
   }
 }
