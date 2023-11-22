@@ -1,0 +1,28 @@
+.flex{
+  display: flex;
+}
+.img{
+  width: 50%;
+  padding-left: 150px;
+  margin-top: -20px;
+}
+body{
+  background: linear-gradient(to right, #cc9999, #996666);
+  font-family: 'Open Sans', sans-serif;
+
+
+}
+.card{
+  background-color: floralwhite;
+  padding: 20px;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-radius: 20px;
+
+}
+.logo{
+  width: 30%;
+}
+p{
+  font-size: 16px;
+}
